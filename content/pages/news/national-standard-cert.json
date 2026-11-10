@@ -1,0 +1,370 @@
+{
+ "route": "/news/national-standard-cert/",
+ "lang": "th",
+ "bodyAttrs": [],
+ "head": [
+  {
+   "tag": "title",
+   "attrs": [],
+   "html": "งานประกาศเกียรติคุณเชิดชูเกียรติบุคลากรทางการศึกษา สช. รับรางวัล 7 ปีซ้อน | สุโขอโยธยา ขอนแก่น"
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "description"
+    ],
+    [
+     "content",
+     "พท.อารยา ธาตุบุรมย์ ผู้บริหารโรงเรียนนวดแผนไทยสุโขอโยธยา ขอนแก่น รับโล่ประกาศเกียรติคุณ รางวัลผู้บริหารสถานศึกษาดีเด่น 7 ปีซ้อน สังกัด สช. ณ หอประชุมคุรุสภา กระทรวงศึกษาธิการ"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "canonical"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/news/national-standard-cert/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "th"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/news/national-standard-cert/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "en"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/news/national-standard-cert/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "x-default"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/news/national-standard-cert/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:locale"
+    ],
+    [
+     "content",
+     "th_TH"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:type"
+    ],
+    [
+     "content",
+     "article"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:title"
+    ],
+    [
+     "content",
+     "งานประกาศเกียรติคุณเชิดชูเกียรติบุคลากรทางการศึกษา สช. รับรางวัล 7 ปีซ้อน | สุโขอโยธยา ขอนแก่น"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:description"
+    ],
+    [
+     "content",
+     "พท.อารยา ธาตุบุรมย์ ผู้บริหารโรงเรียนนวดแผนไทยสุโขอโยธยา ขอนแก่น รับโล่ประกาศเกียรติคุณ ผู้บริหารสถานศึกษาดีเด่น 7 ปีซ้อน"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:url"
+    ],
+    [
+     "content",
+     "https://sukhoayothaya.com/news/national-standard-cert/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:site_name"
+    ],
+    [
+     "content",
+     "SUKHOAYOTHAYA"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:image"
+    ],
+    [
+     "content",
+     "/images/ศูนย์ทดสอบมาตรฐานฝีมือแรงงาน-สุโขอโยธยา.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:card"
+    ],
+    [
+     "content",
+     "summary_large_image"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:title"
+    ],
+    [
+     "content",
+     "งานประกาศเกียรติคุณเชิดชูเกียรติบุคลากรทางการศึกษา สช. | สุโขอโยธยา ขอนแก่น"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:description"
+    ],
+    [
+     "content",
+     "พท.อารยา ธาตุบุรมย์ รับโล่ประกาศเกียรติคุณ ผู้บริหารสถานศึกษาดีเด่น 7 ปีซ้อน สังกัด สช."
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:image"
+    ],
+    [
+     "content",
+     "/images/ศูนย์ทดสอบมาตรฐานฝีมือแรงงาน-สุโขอโยธยา.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [
+    [
+     "type",
+     "application/ld+json"
+    ]
+   ],
+   "html": "\n  {\n    \"@context\": \"https://schema.org\",\n    \"@graph\": [\n      {\n        \"@type\": \"NewsArticle\",\n        \"@id\": \"https://sukhoayothaya.com/news/national-standard-cert/#article\",\n        \"isPartOf\": { \"@id\": \"https://sukhoayothaya.com/#website\" },\n        \"headline\": \"งานประกาศเกียรติคุณเชิดชูเกียรติบุคลากรทางการศึกษา สช. รับรางวัล 7 ปีซ้อน\",\n        \"description\": \"พท.อารยา ธาตุบุรมย์ ผู้บริหารโรงเรียนนวดแผนไทยสุโขอโยธยา ขอนแก่น รับโล่ประกาศเกียรติคุณ ผู้บริหารสถานศึกษาดีเด่น 7 ปีซ้อน จาก สช. ณ หอประชุมคุรุสภา\",\n        \"image\": \"/images/ศูนย์ทดสอบมาตรฐานฝีมือแรงงาน-สุโขอโยธยา.jpg\",\n        \"datePublished\": \"2025-11-01T09:00:00+07:00\",\n        \"author\": {\n          \"@type\": \"Person\",\n          \"name\": \"อารยา ธาตุบุรมย์\"\n        },\n        \"publisher\": {\n          \"@type\": \"Organization\",\n          \"name\": \"SUKHOAYOTHAYA\",\n          \"url\": \"https://sukhoayothaya.com/\"\n        }\n      },\n      {\n        \"@type\": \"BreadcrumbList\",\n        \"@id\": \"https://sukhoayothaya.com/news/national-standard-cert/#breadcrumb\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 1,\n            \"name\": \"Home\",\n            \"item\": \"https://sukhoayothaya.com/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 2,\n            \"name\": \"ข่าวสาร\",\n            \"item\": \"https://sukhoayothaya.com/news/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 3,\n            \"name\": \"งานเชิดชูเกียรติบุคลากรทางการศึกษา สช.\",\n            \"item\": \"https://sukhoayothaya.com/news/national-standard-cert/\"\n          }\n        ]\n      }\n    ]\n  }\n  "
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.googleapis.com"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.gstatic.com"
+    ],
+    [
+     "crossorigin",
+     ""
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "href",
+     "https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=Prompt:wght@300;400;500;600;700&family=Sarabun:wght@300;400;500;600&display=swap"
+    ],
+    [
+     "rel",
+     "stylesheet"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.ico"
+    ],
+    [
+     "sizes",
+     "48x48"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.svg"
+    ],
+    [
+     "type",
+     "image/svg+xml"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "apple-touch-icon"
+    ],
+    [
+     "href",
+     "/apple-touch-icon.png"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "stylesheet"
+    ],
+    [
+     "href",
+     "/style.css"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [],
+   "html": "\n    !function(f,b,e,v,n,t,s)\n    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n    n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n    n.queue=[];t=b.createElement(e);t.async=!0;\n    t.src=v;s=b.getElementsByTagName(e)[0];\n    s.parentNode.insertBefore(t,s)}(window, document,'script',\n    'https://connect.facebook.net/en_US/fbevents.js');\n    fbq('init', '30043604241905912');\n    fbq('track', 'PageView');\n  "
+  },
+  {
+   "tag": "noscript",
+   "attrs": [],
+   "html": "\n    <img height=\"1\" width=\"1\" style=\"display:none\"\n         src=\"https://www.facebook.com/tr?id=30043604241905912&ev=PageView&noscript=1\" alt=\"Meta Pixel\" />\n  "
+  }
+ ],
+ "before": "\n\n  <!-- Top Announcement Bar -->\n  <aside class=\"announcement-bar\" role=\"region\" aria-label=\"ประกาศด่วน\">\n    <div class=\"container announcement-inner\">\n      <span class=\"announcement-tag\">🏆 มาตรฐานวิชาชีพ</span>\n      <span class=\"announcement-text\">\n        โรงเรียนนวดแผนไทยสุโขอโยธยา ขอนแก่น — สบส. สธ. & กระทรวงศึกษาธิการ รับรอง 100%\n      </span>\n      <a href=\"https://line.me/ti/p/EaGjqn7pWV\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"announcement-link track-line\">\n        ติดต่อด่วน &rarr;\n      </a>\n    </div>\n  </aside>\n\n  <!-- Sticky Luxury Header -->\n  ",
+ "actives": [
+  [
+   "/news/",
+   "nav-link"
+  ],
+  [
+   "/news/",
+   "mobile-nav-link"
+  ]
+ ],
+ "switch": {},
+ "header": "header-th-4",
+ "footer": "footer-th",
+ "tail": "tail-th"
+}

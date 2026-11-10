@@ -1,0 +1,364 @@
+{
+ "route": "/course/thai-massage-150-hour-course/",
+ "lang": "th",
+ "bodyAttrs": [],
+ "head": [
+  {
+   "tag": "title",
+   "attrs": [],
+   "html": "หลักสูตรนวดไทยเพื่อสุขภาพ 150 ชั่วโมง | สุโขอโยธยา ขอนแก่น"
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "description"
+    ],
+    [
+     "content",
+     "เรียนนวดไทยพื้นฐาน 150 ชั่วโมง ที่สุโขอโยธยา ขอนแก่น เริ่มจากศูนย์จนชำนาญ เรียนจบได้ประกาศนียบัตร นำไปขึ้นทะเบียนเป็นผู้ให้บริการในสถานประกอบการเพื่อสุขภาพได้"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "canonical"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/course/thai-massage-150-hour-course/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "th"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/course/thai-massage-150-hour-course/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "en"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/course/thai-massage-150-hour-course/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "x-default"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/course/thai-massage-150-hour-course/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:locale"
+    ],
+    [
+     "content",
+     "th_TH"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:type"
+    ],
+    [
+     "content",
+     "article"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:title"
+    ],
+    [
+     "content",
+     "หลักสูตรนวดไทยเพื่อสุขภาพ 150 ชั่วโมง | สุโขอโยธยา ขอนแก่น"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:description"
+    ],
+    [
+     "content",
+     "เรียนนวดไทยพื้นฐาน 150 ชั่วโมง ที่สุโขอโยธยา ขอนแก่น เริ่มจากศูนย์จนชำนาญ เรียนจบได้ประกาศนียบัตร นำไปขึ้นทะเบียนเป็นผู้ให้บริการในสถานประกอบการเพื่อสุขภาพได้"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:url"
+    ],
+    [
+     "content",
+     "https://sukhoayothaya.com/course/thai-massage-150-hour-course/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:site_name"
+    ],
+    [
+     "content",
+     "SUKHOAYOTHAYA"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:image"
+    ],
+    [
+     "content",
+     "/images/หลักสูตรนวดไทยเพื่อสุขภาพ-150-ชั่วโมง-ประกาศนียบัตร-ขึ้นทะเบียน-สุโขอโยธยา.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:card"
+    ],
+    [
+     "content",
+     "summary_large_image"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:title"
+    ],
+    [
+     "content",
+     "หลักสูตรนวดไทยเพื่อสุขภาพ 150 ชั่วโมง | สุโขอโยธยา ขอนแก่น"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:description"
+    ],
+    [
+     "content",
+     "เรียนนวดไทยพื้นฐาน 150 ชั่วโมง ที่สุโขอโยธยา ขอนแก่น เริ่มจากศูนย์จนชำนาญ เรียนจบได้ประกาศนียบัตร นำไปขึ้นทะเบียนเป็นผู้ให้บริการในสถานประกอบการเพื่อสุขภาพได้"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:image"
+    ],
+    [
+     "content",
+     "/images/หลักสูตรนวดไทยเพื่อสุขภาพ-150-ชั่วโมง-ประกาศนียบัตร-ขึ้นทะเบียน-สุโขอโยธยา.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [
+    [
+     "type",
+     "application/ld+json"
+    ]
+   ],
+   "html": "\n  {\n    \"@context\": \"https://schema.org\",\n    \"@graph\": [\n      {\n        \"@type\": \"Course\",\n        \"@id\": \"https://sukhoayothaya.com/course/thai-massage-150-hour-course/#course\",\n        \"isPartOf\": { \"@id\": \"https://sukhoayothaya.com/#website\" },\n        \"headline\": \"หลักสูตรนวดไทยเพื่อสุขภาพ 150 ชั่วโมง\",\n        \"name\": \"หลักสูตรนวดไทยเพื่อสุขภาพ 150 ชั่วโมง\",\n        \"description\": \"เรียนนวดไทยพื้นฐาน 150 ชั่วโมง ที่สุโขอโยธยา ขอนแก่น เริ่มจากศูนย์จนชำนาญ เรียนจบได้ประกาศนียบัตร นำไปขึ้นทะเบียนเป็นผู้ให้บริการในสถานประกอบการเพื่อสุขภาพได้\",\n        \"image\": \"/images/หลักสูตรนวดไทยเพื่อสุขภาพ-150-ชั่วโมง-ประกาศนียบัตร-ขึ้นทะเบียน-สุโขอโยธยา.jpg\",\n        \"datePublished\": \"2026-10-30T10:00:00+07:00\",\n        \"author\": {\n          \"@type\": \"Person\",\n          \"name\": \"อารยา ธาตุบุรมย์\"\n        },\n        \"publisher\": {\n          \"@type\": \"Organization\",\n          \"name\": \"SUKHOAYOTHAYA\",\n          \"url\": \"https://sukhoayothaya.com/\"\n        }\n      },\n      {\n        \"@type\": \"BreadcrumbList\",\n        \"@id\": \"https://sukhoayothaya.com/course/thai-massage-150-hour-course/#breadcrumb\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 1,\n            \"name\": \"Home\",\n            \"item\": \"https://sukhoayothaya.com/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 2,\n            \"name\": \"หลักสูตร\",\n            \"item\": \"https://sukhoayothaya.com/course/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 3,\n            \"name\": \"หลักสูตรนวดไทยเพื่อสุขภาพ 150 ชั่วโมง\",\n            \"item\": \"https://sukhoayothaya.com/course/thai-massage-150-hour-course/\"\n          }\n        ]\n      }\n    ]\n  }\n  "
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.googleapis.com"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.gstatic.com"
+    ],
+    [
+     "crossorigin",
+     ""
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "href",
+     "https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=Prompt:wght@300;400;500;600;700&family=Sarabun:wght@300;400;500;600&display=swap"
+    ],
+    [
+     "rel",
+     "stylesheet"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.ico"
+    ],
+    [
+     "sizes",
+     "48x48"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.svg"
+    ],
+    [
+     "type",
+     "image/svg+xml"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "apple-touch-icon"
+    ],
+    [
+     "href",
+     "/apple-touch-icon.png"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "stylesheet"
+    ],
+    [
+     "href",
+     "/style.css"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [],
+   "html": "\n    !function(f,b,e,v,n,t,s)\n    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n    n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n    n.queue=[];t=b.createElement(e);t.async=!0;\n    t.src=v;s=b.getElementsByTagName(e)[0];\n    s.parentNode.insertBefore(t,s)}(window, document,'script',\n    'https://connect.facebook.net/en_US/fbevents.js');\n    fbq('init', '30043604241905912');\n    fbq('track', 'PageView');\n  "
+  }
+ ],
+ "before": "\n\n  <!-- Header -->\n  ",
+ "actives": [
+  [
+   "/course/",
+   "nav-item"
+  ]
+ ],
+ "switch": {
+  "th": "/course/thai-massage-150-hour-course/",
+  "en": "/en/course/thai-massage-150-hour-course/"
+ },
+ "header": "header-th-3",
+ "footer": "footer-th-3",
+ "tail": "tail-th-3"
+}

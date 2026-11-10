@@ -1,0 +1,349 @@
+{
+ "route": "/en/news/best-teacher-2024/",
+ "lang": "en",
+ "bodyAttrs": [],
+ "head": [
+  {
+   "tag": "title",
+   "attrs": [],
+   "html": "Outstanding Vocational Teacher Award 2024 | Sukho Ayothaya Khon Kaen"
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "description"
+    ],
+    [
+     "content",
+     "Director Araya Thatburom was honored with the prestigious Outstanding Vocational Teacher Award 2024 by the Office of the Private Education Commission (OPEC)."
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "canonical"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/news/best-teacher-2024/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "th"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/news/best-teacher-2024/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "en"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/news/best-teacher-2024/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "x-default"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/news/best-teacher-2024/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:locale"
+    ],
+    [
+     "content",
+     "en_US"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:type"
+    ],
+    [
+     "content",
+     "article"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:title"
+    ],
+    [
+     "content",
+     "Outstanding Vocational Teacher Award 2024 | Sukho Ayothaya Khon Kaen"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:description"
+    ],
+    [
+     "content",
+     "Director Araya Thatburom was honored with the prestigious Outstanding Vocational Teacher Award 2024 by the Office of the Private Education Commission (OPEC)."
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:url"
+    ],
+    [
+     "content",
+     "https://sukhoayothaya.com/en/news/best-teacher-2024/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:site_name"
+    ],
+    [
+     "content",
+     "SUKHOAYOTHAYA"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:image"
+    ],
+    [
+     "content",
+     "/images/รางวัลต้นแบบครูผู้สอนนวด-best-thailand-2024.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:card"
+    ],
+    [
+     "content",
+     "summary_large_image"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:title"
+    ],
+    [
+     "content",
+     "Outstanding Vocational Teacher Award 2024 | Sukho Ayothaya Khon Kaen"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:description"
+    ],
+    [
+     "content",
+     "Director Araya Thatburom was honored with the prestigious Outstanding Vocational Teacher Award 2024 by the Office of the Private Education Commission (OPEC)."
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:image"
+    ],
+    [
+     "content",
+     "/images/รางวัลต้นแบบครูผู้สอนนวด-best-thailand-2024.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.googleapis.com"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.gstatic.com"
+    ],
+    [
+     "crossorigin",
+     ""
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "href",
+     "https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=Prompt:wght@300;400;500;600;700&family=Sarabun:wght@300;400;500;600&display=swap"
+    ],
+    [
+     "rel",
+     "stylesheet"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.ico"
+    ],
+    [
+     "sizes",
+     "48x48"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.svg"
+    ],
+    [
+     "type",
+     "image/svg+xml"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "apple-touch-icon"
+    ],
+    [
+     "href",
+     "/apple-touch-icon.png"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "stylesheet"
+    ],
+    [
+     "href",
+     "/style.css"
+    ]
+   ]
+  }
+ ],
+ "before": "\n\n  <!-- Header -->\n  ",
+ "actives": [
+  [
+   "/en/news/",
+   "nav-item"
+  ]
+ ],
+ "switch": {
+  "th": "/news/best-teacher-2024/",
+  "en": "/en/news/best-teacher-2024/"
+ },
+ "header": "header-en",
+ "footer": "footer-en",
+ "tail": "tail-en-3"
+}

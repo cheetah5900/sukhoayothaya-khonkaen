@@ -1,0 +1,364 @@
+{
+ "route": "/activities/daily-morning-activities/",
+ "lang": "th",
+ "bodyAttrs": [],
+ "head": [
+  {
+   "tag": "title",
+   "attrs": [],
+   "html": "กิจกรรมประจำวัน สวดมนต์ นั่งสมาธิ และบริหารร่างกายก่อนเรียน | สุโขอโยธยา ขอนแก่น"
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "description"
+    ],
+    [
+     "content",
+     "นำสวดมนต์ นั่งสมาธิแผ่เมตตา บริหารร่างกายท่ามณีเวชและเส้นประธานสิบ โรงเรียนไม่ใช่แค่สอนนวด แต่สอนให้รู้รักสามัคคี"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "canonical"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/activities/daily-morning-activities/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "th"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/activities/daily-morning-activities/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "en"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/activities/daily-morning-activities/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "x-default"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/activities/daily-morning-activities/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:locale"
+    ],
+    [
+     "content",
+     "th_TH"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:type"
+    ],
+    [
+     "content",
+     "article"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:title"
+    ],
+    [
+     "content",
+     "กิจกรรมประจำวัน สวดมนต์ นั่งสมาธิ และบริหารร่างกายก่อนเรียน | สุโขอโยธยา ขอนแก่น"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:description"
+    ],
+    [
+     "content",
+     "นำสวดมนต์ นั่งสมาธิแผ่เมตตา บริหารร่างกายท่ามณีเวชและเส้นประธานสิบ โรงเรียนไม่ใช่แค่สอนนวด แต่สอนให้รู้รักสามัคคี"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:url"
+    ],
+    [
+     "content",
+     "https://sukhoayothaya.com/activities/daily-morning-activities/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:site_name"
+    ],
+    [
+     "content",
+     "SUKHOAYOTHAYA"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:image"
+    ],
+    [
+     "content",
+     "/images/กิจกรรมประจำวัน-นักเรียนบริหารร่างกายยกแขน-สุโขอโยธยา-ขอนแก่น.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:card"
+    ],
+    [
+     "content",
+     "summary_large_image"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:title"
+    ],
+    [
+     "content",
+     "กิจกรรมประจำวัน สวดมนต์ นั่งสมาธิ และบริหารร่างกายก่อนเรียน | สุโขอโยธยา ขอนแก่น"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:description"
+    ],
+    [
+     "content",
+     "นำสวดมนต์ นั่งสมาธิแผ่เมตตา บริหารร่างกายท่ามณีเวชและเส้นประธานสิบ โรงเรียนไม่ใช่แค่สอนนวด แต่สอนให้รู้รักสามัคคี"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:image"
+    ],
+    [
+     "content",
+     "/images/กิจกรรมประจำวัน-นักเรียนบริหารร่างกายยกแขน-สุโขอโยธยา-ขอนแก่น.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [
+    [
+     "type",
+     "application/ld+json"
+    ]
+   ],
+   "html": "\n  {\n    \"@context\": \"https://schema.org\",\n    \"@graph\": [\n      {\n        \"@type\": \"NewsArticle\",\n        \"@id\": \"https://sukhoayothaya.com/activities/daily-morning-activities/#activity\",\n        \"isPartOf\": { \"@id\": \"https://sukhoayothaya.com/#website\" },\n        \"headline\": \"กิจกรรมประจำวัน สวดมนต์ นั่งสมาธิ และบริหารร่างกายก่อนเรียน\",\n        \"name\": \"กิจกรรมประจำวัน สวดมนต์ นั่งสมาธิ และบริหารร่างกายก่อนเรียน\",\n        \"description\": \"นำสวดมนต์ นั่งสมาธิแผ่เมตตา บริหารร่างกายท่ามณีเวชและเส้นประธานสิบ โรงเรียนไม่ใช่แค่สอนนวด แต่สอนให้รู้รักสามัคคี\",\n        \"image\": \"/images/กิจกรรมประจำวัน-นักเรียนบริหารร่างกายยกแขน-สุโขอโยธยา-ขอนแก่น.jpg\",\n        \"datePublished\": \"2026-11-07T10:00:00+07:00\",\n        \"author\": {\n          \"@type\": \"Person\",\n          \"name\": \"อารยา ธาตุบุรมย์\"\n        },\n        \"publisher\": {\n          \"@type\": \"Organization\",\n          \"name\": \"SUKHOAYOTHAYA\",\n          \"url\": \"https://sukhoayothaya.com/\"\n        }\n      },\n      {\n        \"@type\": \"BreadcrumbList\",\n        \"@id\": \"https://sukhoayothaya.com/activities/daily-morning-activities/#breadcrumb\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 1,\n            \"name\": \"Home\",\n            \"item\": \"https://sukhoayothaya.com/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 2,\n            \"name\": \"กิจกรรม\",\n            \"item\": \"https://sukhoayothaya.com/activities/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 3,\n            \"name\": \"กิจกรรมประจำวัน สวดมนต์ นั่งสมาธิ และบริหารร่างกายก่อนเรียน\",\n            \"item\": \"https://sukhoayothaya.com/activities/daily-morning-activities/\"\n          }\n        ]\n      }\n    ]\n  }\n  "
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.googleapis.com"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.gstatic.com"
+    ],
+    [
+     "crossorigin",
+     ""
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "href",
+     "https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=Prompt:wght@300;400;500;600;700&family=Sarabun:wght@300;400;500;600&display=swap"
+    ],
+    [
+     "rel",
+     "stylesheet"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.ico"
+    ],
+    [
+     "sizes",
+     "48x48"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.svg"
+    ],
+    [
+     "type",
+     "image/svg+xml"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "apple-touch-icon"
+    ],
+    [
+     "href",
+     "/apple-touch-icon.png"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "stylesheet"
+    ],
+    [
+     "href",
+     "/style.css"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [],
+   "html": "\n    !function(f,b,e,v,n,t,s)\n    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n    n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n    n.queue=[];t=b.createElement(e);t.async=!0;\n    t.src=v;s=b.getElementsByTagName(e)[0];\n    s.parentNode.insertBefore(t,s)}(window, document,'script',\n    'https://connect.facebook.net/en_US/fbevents.js');\n    fbq('init', '30043604241905912');\n    fbq('track', 'PageView');\n  "
+  }
+ ],
+ "before": "\n\n  <!-- Header -->\n  ",
+ "actives": [
+  [
+   "/activities/",
+   "nav-item"
+  ]
+ ],
+ "switch": {
+  "th": "/activities/daily-morning-activities/",
+  "en": "/en/activities/daily-morning-activities/"
+ },
+ "header": "header-th-3",
+ "footer": "footer-th-3",
+ "tail": "tail-th-3"
+}

@@ -1,0 +1,364 @@
+{
+ "route": "/en/news/graduates-certificates-and-reviews/",
+ "lang": "en",
+ "bodyAttrs": [],
+ "head": [
+  {
+   "tag": "title",
+   "attrs": [],
+   "html": "Real Graduates, Real Certificates, and Reviews from Our Alumni | Sukho Ayothaya Khon Kaen"
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "description"
+    ],
+    [
+     "content",
+     "Thank you to every student who trusted us to be part of their success. Graduates receive a dual-language certificate and the Sor.Por.Sor.14 registration, and go on to real careers."
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "canonical"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/news/graduates-certificates-and-reviews/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "th"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/news/graduates-certificates-and-reviews/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "en"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/news/graduates-certificates-and-reviews/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "x-default"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/news/graduates-certificates-and-reviews/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:locale"
+    ],
+    [
+     "content",
+     "en_US"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:type"
+    ],
+    [
+     "content",
+     "article"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:title"
+    ],
+    [
+     "content",
+     "Real Graduates, Real Certificates, and Reviews from Our Alumni | Sukho Ayothaya Khon Kaen"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:description"
+    ],
+    [
+     "content",
+     "Thank you to every student who trusted us to be part of their success. Graduates receive a dual-language certificate and the Sor.Por.Sor.14 registration, and go on to real careers."
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:url"
+    ],
+    [
+     "content",
+     "https://sukhoayothaya.com/en/news/graduates-certificates-and-reviews/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:site_name"
+    ],
+    [
+     "content",
+     "SUKHOAYOTHAYA"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:image"
+    ],
+    [
+     "content",
+     "/images/เรียนจบได้ใบประกาศจริง-รีวิวศิษย์เก่า-สุโขอโยธยา-ขอนแก่น-cover.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:card"
+    ],
+    [
+     "content",
+     "summary_large_image"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:title"
+    ],
+    [
+     "content",
+     "Real Graduates, Real Certificates, and Reviews from Our Alumni | Sukho Ayothaya Khon Kaen"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:description"
+    ],
+    [
+     "content",
+     "Thank you to every student who trusted us to be part of their success. Graduates receive a dual-language certificate and the Sor.Por.Sor.14 registration, and go on to real careers."
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:image"
+    ],
+    [
+     "content",
+     "/images/เรียนจบได้ใบประกาศจริง-รีวิวศิษย์เก่า-สุโขอโยธยา-ขอนแก่น-cover.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [
+    [
+     "type",
+     "application/ld+json"
+    ]
+   ],
+   "html": "\n  {\n    \"@context\": \"https://schema.org\",\n    \"@graph\": [\n      {\n        \"@type\": \"NewsArticle\",\n        \"@id\": \"https://sukhoayothaya.com/en/news/graduates-certificates-and-reviews/#news\",\n        \"isPartOf\": { \"@id\": \"https://sukhoayothaya.com/#website\" },\n        \"headline\": \"Real Graduates, Real Certificates, and Reviews from Our Alumni\",\n        \"name\": \"Real Graduates, Real Certificates, and Reviews from Our Alumni\",\n        \"description\": \"Thank you to every student who trusted us to be part of their success. Graduates receive a dual-language certificate and the Sor.Por.Sor.14 registration, and go on to real careers.\",\n        \"image\": \"/images/เรียนจบได้ใบประกาศจริง-รีวิวศิษย์เก่า-สุโขอโยธยา-ขอนแก่น-cover.jpg\",\n        \"datePublished\": \"2026-10-31T10:00:00+07:00\",\n        \"author\": {\n          \"@type\": \"Person\",\n          \"name\": \"Director Araya Thatburom (Kru Nuch)\"\n        },\n        \"publisher\": {\n          \"@type\": \"Organization\",\n          \"name\": \"SUKHOAYOTHAYA\",\n          \"url\": \"https://sukhoayothaya.com/\"\n        }\n      },\n      {\n        \"@type\": \"BreadcrumbList\",\n        \"@id\": \"https://sukhoayothaya.com/en/news/graduates-certificates-and-reviews/#breadcrumb\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 1,\n            \"name\": \"Home\",\n            \"item\": \"https://sukhoayothaya.com/en/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 2,\n            \"name\": \"News\",\n            \"item\": \"https://sukhoayothaya.com/en/news/\"\n          },\n          {\n            \"@type\": \"ListItem\",\n            \"position\": 3,\n            \"name\": \"Real Graduates, Real Certificates, and Reviews from Our Alumni\",\n            \"item\": \"https://sukhoayothaya.com/en/news/graduates-certificates-and-reviews/\"\n          }\n        ]\n      }\n    ]\n  }\n  "
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.googleapis.com"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.gstatic.com"
+    ],
+    [
+     "crossorigin",
+     ""
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "href",
+     "https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=Prompt:wght@300;400;500;600;700&family=Sarabun:wght@300;400;500;600&display=swap"
+    ],
+    [
+     "rel",
+     "stylesheet"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.ico"
+    ],
+    [
+     "sizes",
+     "48x48"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.svg"
+    ],
+    [
+     "type",
+     "image/svg+xml"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "apple-touch-icon"
+    ],
+    [
+     "href",
+     "/apple-touch-icon.png"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "stylesheet"
+    ],
+    [
+     "href",
+     "/style.css"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [],
+   "html": "\n    !function(f,b,e,v,n,t,s)\n    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n    n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n    n.queue=[];t=b.createElement(e);t.async=!0;\n    t.src=v;s=b.getElementsByTagName(e)[0];\n    s.parentNode.insertBefore(t,s)}(window, document,'script',\n    'https://connect.facebook.net/en_US/fbevents.js');\n    fbq('init', '30043604241905912');\n    fbq('track', 'PageView');\n  "
+  }
+ ],
+ "before": "\n\n  <!-- Header -->\n  ",
+ "actives": [
+  [
+   "/en/news/",
+   "nav-item"
+  ]
+ ],
+ "switch": {
+  "th": "/news/graduates-certificates-and-reviews/",
+  "en": "/en/news/graduates-certificates-and-reviews/"
+ },
+ "header": "header-en-4",
+ "footer": "footer-en-3",
+ "tail": "tail-en-3"
+}

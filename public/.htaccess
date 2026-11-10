@@ -1,0 +1,78 @@
+# ==============================================================================
+# SUKHO AYOTHAYA - PRODUCTION SERVER CONFIGURATION (.HTACCESS)
+# Optimized for: Apache / Plesk / Nginx Reverse Proxy
+# Objective: Zero SEO Degradation, Force Trailing Slash, 1:1 Routing Preservation
+# ==============================================================================
+
+RewriteEngine On
+
+# ------------------------------------------------------------------------------
+# 1. 301 Redirect /index.html and Subdirectory index.html to Clean Canonical URLs
+# ------------------------------------------------------------------------------
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ / [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.+/)?index\.html\ HTTP/
+RewriteRule ^(.+/)?index\.html$ /%1 [R=301,L]
+
+# ------------------------------------------------------------------------------
+# 2. 301 Redirects for Legacy Slugs and Flat .html URLs
+# ------------------------------------------------------------------------------
+RewriteRule ^promotion-1299/?$ /course/ [R=301,L]
+RewriteRule ^courses/?$ /course/ [R=301,L]
+RewriteRule ^course\.html$ /course/ [R=301,L]
+RewriteRule ^courses\.html$ /course/ [R=301,L]
+RewriteRule ^about\.html$ /about/ [R=301,L]
+RewriteRule ^contact-us\.html$ /contact-us/ [R=301,L]
+RewriteRule ^contact/?$ /contact-us/ [R=301,L]
+RewriteRule ^news\.html$ /news/ [R=301,L]
+RewriteRule ^news-sme-awards\.html$ /news/sme-awards/ [R=301,L]
+RewriteRule ^news-best-teacher-2024\.html$ /news/best-teacher-2024/ [R=301,L]
+RewriteRule ^news-vocational-stars\.html$ /news/vocational-stars/ [R=301,L]
+RewriteRule ^course/skill-standard-level-1-practical-exam/?$ /activities/skill-standard-level-1-practical-exam/ [R=301,L]
+RewriteRule ^en/course/skill-standard-level-1-practical-exam/?$ /en/activities/skill-standard-level-1-practical-exam/ [R=301,L]
+RewriteRule ^course/waxing-career-course/?$ /course/beauty-services-150-hour-course/ [R=301,L]
+RewriteRule ^en/course/waxing-career-course/?$ /en/course/beauty-services-150-hour-course/ [R=301,L]
+RewriteRule ^course/herbal-compress-workshop/?$ /course/postpartum-care-150-hour-course/ [R=301,L]
+RewriteRule ^en/course/herbal-compress-workshop/?$ /en/course/postpartum-care-150-hour-course/ [R=301,L]
+RewriteRule ^news/facial-massage-career-course/?$ /course/facial-massage-career-course/ [R=301,L]
+
+# Strip any other .html extensions and force clean directory with trailing slash
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+RewriteRule ^ /%1/ [R=301,L]
+
+# ------------------------------------------------------------------------------
+# 3. Force Trailing Slash on Directories (Prevents Duplicate Content & 404s)
+# ------------------------------------------------------------------------------
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*[^/])$ https://%{HTTP_HOST}/$1/ [L,R=301]
+
+# ------------------------------------------------------------------------------
+# 4. Default Index Handler
+# ------------------------------------------------------------------------------
+DirectoryIndex index.html
+
+# ------------------------------------------------------------------------------
+# 5. UTF-8 Character Encoding
+# ------------------------------------------------------------------------------
+AddDefaultCharset UTF-8
+
+# ------------------------------------------------------------------------------
+# 6. Browser Caching & Performance Optimization
+# ------------------------------------------------------------------------------
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 month"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript application/json
+</IfModule>

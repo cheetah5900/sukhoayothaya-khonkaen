@@ -1,0 +1,395 @@
+{
+ "route": "/course/",
+ "lang": "th",
+ "bodyAttrs": [],
+ "head": [
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "http-equiv",
+     "X-UA-Compatible"
+    ],
+    [
+     "content",
+     "IE=edge"
+    ]
+   ]
+  },
+  {
+   "tag": "title",
+   "attrs": [],
+   "html": "หลักสูตร นวดแผนไทย พร้อมใบรับรอง"
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "description"
+    ],
+    [
+     "content",
+     "หลักสูตร นวดแผนไทย พร้อมใบรับรองสำหรับทำงานในไทย และต่างประเทศ การันตี นวดเป็นภายใน 7 วัน อายุเยอะก็เรียนได้"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "robots"
+    ],
+    [
+     "content",
+     "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "canonical"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/course/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "th"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/course/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "en"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/en/course/"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "alternate"
+    ],
+    [
+     "hreflang",
+     "x-default"
+    ],
+    [
+     "href",
+     "https://sukhoayothaya.com/course/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:locale"
+    ],
+    [
+     "content",
+     "th_TH"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:type"
+    ],
+    [
+     "content",
+     "article"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:title"
+    ],
+    [
+     "content",
+     "หลักสูตร นวดแผนไทย พร้อมใบรับรอง"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:description"
+    ],
+    [
+     "content",
+     "หลักสูตร นวดแผนไทย พร้อมใบรับรองสำหรับทำงานในไทย และต่างประเทศ การันตี นวดเป็นภายใน 7 วัน อายุเยอะก็เรียนได้"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:url"
+    ],
+    [
+     "content",
+     "https://sukhoayothaya.com/course/"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:site_name"
+    ],
+    [
+     "content",
+     "SUKHOAYOTHAYA"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "article:modified_time"
+    ],
+    [
+     "content",
+     "2026-10-10T14:02:44+00:00"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:image"
+    ],
+    [
+     "content",
+     "/images/โปรโมชั่น3หลักสูตรยอดนิยม-สุโขอโยธยา-ขอนแก่น.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:card"
+    ],
+    [
+     "content",
+     "summary_large_image"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:label1"
+    ],
+    [
+     "content",
+     "Est. reading time"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:data1"
+    ],
+    [
+     "content",
+     "4 นาที"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [
+    [
+     "type",
+     "application/ld+json"
+    ]
+   ],
+   "html": "\n  {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://sukhoayothaya.com/course/\",\"url\":\"https://sukhoayothaya.com/course/\",\"name\":\"หลักสูตร นวดแผนไทย พร้อมใบรับรอง\",\"isPartOf\":{\"@id\":\"https://sukhoayothaya.com/#website\"},\"datePublished\":\"2022-09-29T07:44:48+00:00\",\"dateModified\":\"2026-10-10T14:02:44+00:00\",\"description\":\"หลักสูตร นวดแผนไทย พร้อมใบรับรองสำหรับทำงานในไทย และต่างประเทศ การันตี นวดเป็นภายใน 7 วัน อายุเยอะก็เรียนได้\",\"breadcrumb\":{\"@id\":\"https://sukhoayothaya.com/course/#breadcrumb\"},\"inLanguage\":\"th\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://sukhoayothaya.com/course/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://sukhoayothaya.com/course/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://sukhoayothaya.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"หลักสูตร\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://sukhoayothaya.com/#website\",\"url\":\"https://sukhoayothaya.com/\",\"name\":\"SUKHOAYOTHAYA\",\"description\":\"sukhoayothaya Thai massage school\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sukhoayothaya.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"th\"}]}\n  "
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.googleapis.com"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.gstatic.com"
+    ],
+    [
+     "crossorigin",
+     ""
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "href",
+     "https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Prompt:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Sarabun:wght@300;400;500;600&display=swap"
+    ],
+    [
+     "rel",
+     "stylesheet"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.ico"
+    ],
+    [
+     "sizes",
+     "48x48"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.svg"
+    ],
+    [
+     "type",
+     "image/svg+xml"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "apple-touch-icon"
+    ],
+    [
+     "href",
+     "/apple-touch-icon.png"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "stylesheet"
+    ],
+    [
+     "href",
+     "/style.css"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [],
+   "html": "\n    !function(f,b,e,v,n,t,s)\n    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n    n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n    n.queue=[];t=b.createElement(e);t.async=!0;\n    t.src=v;s=b.getElementsByTagName(e)[0];\n    s.parentNode.insertBefore(t,s)}(window, document,'script',\n    'https://connect.facebook.net/en_US/fbevents.js');\n    \n    fbq('init', '30043604241905912');\n    fbq('track', 'PageView');\n  "
+  },
+  {
+   "tag": "noscript",
+   "attrs": [],
+   "html": "\n    <img height=\"1\" width=\"1\" style=\"display:none\"\n         src=\"https://www.facebook.com/tr?id=30043604241905912&ev=PageView&noscript=1\" alt=\"Meta Pixel\" />\n  "
+  }
+ ],
+ "before": "\n\n  <!-- Header -->\n  ",
+ "actives": [
+  [
+   "/course/",
+   "nav-item"
+  ]
+ ],
+ "switch": {
+  "th": "/course/",
+  "en": "/en/course/"
+ },
+ "header": "header-th-5",
+ "footer": "footer-th",
+ "tail": "tail-th-2"
+}
